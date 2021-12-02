@@ -4,14 +4,16 @@
 
 
 프로젝트 생성 날짜 : 2021 12 02 \n
-프로젝트 구성원
+
+프로젝트 구성원\n
+\n\n\n\n
 
 
 
-
-김준현
-a developer
-b developer
+김준현\n
+a developer\n
+b developer\n
+\n\n\n\n\n
 
 
 
